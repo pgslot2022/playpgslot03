@@ -1,0 +1,16 @@
+{
+  "name": "playpgslot_registers_2022_Bonus_Free",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "เล่นพีจีสล็อตออนไลน์เว็บตรง สมัครฟรีฝากถอนไม่มีขั้นต่ำ",
+  "keywords": [
+    "สล็อตเว็บตรง",
+    "พีจีสล็อต",
+    "PG SLOT เว็บตรง"
+  ],
+  "repository": "https://github.com/pgslot2022/playpgslot03",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
